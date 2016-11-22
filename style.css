@@ -1,0 +1,31 @@
+body{
+	margin:0;
+}
+
+.main_nav{
+	
+	border-bottom:1px black solid;
+	
+}
+
+.header{
+	
+	background:#f2f2f2;
+	height:500px;
+	
+}
+
+.header button{
+	margin:0 auto;
+	display:block;
+	bottom:0;
+}
+
+.center_content h1 {
+	text-align:center;
+}
+
+.center_content p {
+	width:800px;
+	margin:0 auto;
+}
